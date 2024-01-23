@@ -22,6 +22,7 @@ Welcome to the End-to-End Cricket Data Analytics Project! This GitHub repository
 5. **User-Friendly Interface:**
    - **Interactive Dashboard:** Navigate seamlessly through a user-friendly dashboard to access different features and analyses effortlessly.
    - **Customization:** Tailor the analytics to your preferences and explore specific players, teams, or timeframes.
+
 Explore the fascinating world of cricket through our analytics project and gain unique insights into the game's nuances. Let the numbers tell the story!
 
 
