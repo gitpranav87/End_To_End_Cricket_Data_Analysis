@@ -24,7 +24,9 @@ Welcome to the End-to-End Cricket Data Analytics Project! This GitHub repository
    - **Customization:** Tailor the analytics to your preferences and explore specific players, teams, or timeframes.
 
 ## ScreenShots
-![Alt text](https://github.com/gitpranav87/End_To_End_Cricket_Data_Analytics_Project/blob/main/Images/Screenshot%202024-01-21%20013014.png)
 ![Alt text](https://github.com/gitpranav87/End_To_End_Cricket_Data_Analytics_Project/blob/main/Images/Screenshot%202024-01-21%20013059.png)
+
+![Alt text](https://github.com/gitpranav87/End_To_End_Cricket_Data_Analytics_Project/blob/main/Images/Screenshot%202024-01-21%20013014.png)
+
 Explore the fascinating world of cricket through our analytics project and gain unique insights into the game's nuances. Let the numbers tell the story!
 
